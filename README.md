@@ -1,2 +1,2 @@
-# mine-github
-This Repository is setup to use for my Assignment and other related works
+# Uche-github
+This Repository is setup to use for my assignment and to showcase other related works
